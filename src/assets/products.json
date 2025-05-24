@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "MyFitness Chocolate Peanut Butter",
+    "description": "A delicious blend of chocolate and peanut butter, perfect for fitness enthusiasts.",
+    "price": 299,
+    "category": "Spreads",
+    "image": "https://m.media-amazon.com/images/I/61N5G9ZsGzL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Prasuma Original Chicken Momos",
+    "description": "Authentic chicken momos, ready to heat and eat.",
+    "price": 170,
+    "category": "Frozen Foods",
+    "image": "https://m.media-amazon.com/images/I/71q6K3F6tCL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Haldiram's Minute Khana Dal Makhani",
+    "description": "Rich and creamy dal makhani, a ready-to-eat delight.",
+    "price": 95,
+    "category": "Ready Meals",
+    "image": "https://m.media-amazon.com/images/I/91kEqF+JHgL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tata Sampann Dry Fruits & Nuts Mix",
+    "description": "A premium mix of dry fruits and nuts for a healthy snack.",
+    "price": 228,
+    "category": "Snacks",
+    "image": "https://m.media-amazon.com/images/I/81dn+q2RO1L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "MOM Veg Biryani with Shahi Gravy",
+    "description": "Instant veg biryani paired with rich shahi gravy.",
+    "price": 504,
+    "category": "Instant Meals",
+    "image": "https://m.media-amazon.com/images/I/51y6V8uRkuL._AC_SL1000_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Amul Butter",
+    "description": "Creamy and delicious butter from Amul.",
+    "price": 235,
+    "category": "Dairy",
+    "image": "https://m.media-amazon.com/images/I/81NZPIgnsOL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kissan Mixed Fruit Jam",
+    "description": "A delightful mix of various fruits in a spreadable jam.",
+    "price": 150,
+    "category": "Spreads",
+    "image": "https://m.media-amazon.com/images/I/711NS1FXA2L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "MTR Ready to Eat Paneer Butter Masala",
+    "description": "Delicious paneer butter masala, ready in minutes.",
+    "price": 120,
+    "category": "Ready Meals",
+    "image": "https://m.media-amazon.com/images/I/81RRsBkPG3L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nestlé Maggi 2-Minute Noodles",
+    "description": "Classic instant noodles loved by all.",
+    "price": 12,
+    "category": "Instant Meals",
+    "image": "https://m.media-amazon.com/images/I/61muGcNInJL._AC_SL1000_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Britannia Good Day Cashew Cookies",
+    "description": "Crunchy cookies loaded with cashew nuts.",
+    "price": 30,
+    "category": "Snacks",
+    "image": "https://m.media-amazon.com/images/I/71g8abO1iIL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Kellogg's Corn Flakes",
+    "description": "Healthy and nutritious breakfast cereal.",
+    "price": 190,
+    "category": "Breakfast",
+    "image": "https://m.media-amazon.com/images/I/61CZM1v38hL._AC_SL1000_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sunfeast Yippee Noodles",
+    "description": "Long, non-sticky noodles with a tasty masala.",
+    "price": 15,
+    "category": "Instant Meals",
+    "image": "https://m.media-amazon.com/images/I/71Drn1b-mPL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mother's Recipe Mixed Pickle",
+    "description": "Traditional Indian mixed pickle with authentic flavors.",
+    "price": 85,
+    "category": "Condiments",
+    "image": "https://m.media-amazon.com/images/I/71ppDN0Q65L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Parle-G Biscuits",
+    "description": "Iconic glucose biscuits enjoyed by generations.",
+    "price": 10,
+    "category": "Snacks",
+    "image": "https://m.media-amazon.com/images/I/61TzvcM3i2L._AC_SL1000_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Fortune Sunflower Oil",
+    "description": "Refined sunflower oil for healthy cooking.",
+    "price": 130,
+    "category": "Cooking Essentials",
+    "image": "https://m.media-amazon.com/images/I/71HtFDnSi5L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Aashirvaad Atta",
+    "description": "Whole wheat flour for soft and fluffy rotis.",
+    "price": 200,
+    "category": "Grains",
+    "image": "https://m.media-amazon.com/images/I/81iQuJKb5ZL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Dabur Honey",
+    "description": "Pure and natural honey for a healthy lifestyle.",
+    "price": 250,
+    "category": "Health Foods",
+    "image": "https://m.media-amazon.com/images/I/71e4XW4U7XL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Bournvita Health Drink",
+    "description": "Chocolate flavored health drink for all ages.",
+    "price": 180,
+    "category": "Beverages",
+    "image": "https://m.media-amazon.com/images/I/61dF1p9xNBL._AC_SL1000_.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Lays Classic Salted Chips",
+    "description": "Crispy potato chips with classic salted flavor.",
+    "price": 20,
+    "category": "Snacks",
+    "image": "https://m.media-amazon.com/images/I/71vRUpu6RsL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Real Mixed Fruit Juice",
+    "description": "Refreshing mixed fruit juice with real fruit pulp.",
+    "price": 110,
+    "category": "Beverages",
+    "image": "https://m.media-amazon.com/images/I/51RxOj1DJFL._AC_SL1000_.jpg"
+  }
+]
